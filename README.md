@@ -1,0 +1,2 @@
+# .github
+LamantinAI Manifesto
