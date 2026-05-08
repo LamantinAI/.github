@@ -1,6 +1,6 @@
 # LamantinAI Manifesto
 
-**LamantinAI** is a research organization focused on developing tools and architectural solutions in Computer Vision, Machine Learning, and AI. Our technology stack (Rust, Python, Edge AI) is driven by a commitment to ultimate reliability and performance, which we consider a prerequisite for creating responsible and ethical intelligence. We are building an ecosystem for visual data and distributed systems, laying the foundation for the next generation of autonomous agents and multimodal models.
+**LamantinAI** is a research organization focused on developing tools and architectural solutions in Computer Vision, Machine Learning, and AI. Our technology stack (Rust, Python, Edge AI) is driven by a commitment to ultimate reliability and performance, which we consider a prerequisite for creating responsible and ethical intelligence. We are building an ecosystem for visual data and distributed systems, laying the foundation for embodied AI and multimodal models.
 
 ### Engineering Ethics
 
@@ -16,3 +16,4 @@ Our developments are built upon four foundations:
 ### Principle of Radical Openness
 
 LamantinAI adheres to a policy of full transparency. We publish everything: libraries and frameworks source code, training scripts, system prompts, and architectural experiment results — though we’ll keep our credentials to ourselves. Knowledge is only valuable when it is shared freely.
+
